@@ -128,7 +128,7 @@ getgenv().ExunysDeveloperAimbot = {
 		RainbowOutlineColor = false,
 		Color = Color3fromRGB(255, 255, 255),
 		OutlineColor = Color3fromRGB(0, 0, 0),
-		LockedColor = Color3fromRGB(255, 150, 150)
+		LockedColor = Color3fromRGB(255, 0, 0)
 	},
 
 	Blacklisted = {},
